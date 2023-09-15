@@ -8,6 +8,8 @@ Ability to add, list, and remove virtual classrooms.
 Ability to add, list, and remove virtual classrooms.
 Schedule assignments for classrooms and allow students to submit them.
 
+also keep record of all the changes.
+
 
 # User Input
 1. Add Classroom: User types add_classroom followed by the class name to create a new virtual classroom.
